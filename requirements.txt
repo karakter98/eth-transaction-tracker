@@ -1,0 +1,5 @@
+Django==3.2.4
+web3==5.20.0
+eth-utils==1.10.0
+eth-account==0.5.4
+hexbytes==0.2.1
