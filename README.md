@@ -24,6 +24,7 @@
 11. Insert the contract address and the ABI for any ERC20 token you want to track transactions for.
     
    Example for Yeenus: https://ropsten.etherscan.io/address/0xF6fF95D53E08c9660dC7820fD5A775484f77183A#code
+
 12. Go to "Accounts" and click "Add"
 13. Give a name to the auto-generated account.
 14. You're all set to start tracking transactions!
