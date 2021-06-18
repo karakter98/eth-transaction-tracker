@@ -7,7 +7,7 @@ from web3.types import TxData, BlockData
 
 
 class TransactionProcessor(metaclass=ABCMeta):
-    CONFIRMATIONS_REQUIRED = 0
+    CONFIRMATIONS_REQUIRED = 6
     _logger = None
 
     def __init__(self, web3_client: Web3):
